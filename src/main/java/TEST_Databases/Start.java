@@ -5,6 +5,8 @@ public class Start {
         DBWorker worker = new DBWorker();
         for (int i = 0; i < worker.maker.size(); i++){
             System.out.printf("|%8d %4s |\n", 100,"");
+
+            
         }
     }
 }
